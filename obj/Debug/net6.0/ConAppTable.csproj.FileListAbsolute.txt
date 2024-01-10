@@ -12,3 +12,4 @@ D:\GitAssignment\Phase 4\Day3\ConAppTable\ConAppTable\obj\Debug\net6.0\refint\Co
 D:\GitAssignment\Phase 4\Day3\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.pdb
 D:\GitAssignment\Phase 4\Day3\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.genruntimeconfig.cache
 D:\GitAssignment\Phase 4\Day3\ConAppTable\ConAppTable\obj\Debug\net6.0\ref\ConAppTable.dll
+D:\GitAssignment\Phase 4\Day3\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.sourcelink.json
